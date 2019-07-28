@@ -1,6 +1,6 @@
 import React from 'react';
 
-export class StorePicker extends React.Component {
+export default class StorePicker extends React.Component {
     constructor(props) {
         super(props);   
         this.state = {
